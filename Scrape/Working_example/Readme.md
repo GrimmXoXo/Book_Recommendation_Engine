@@ -39,3 +39,11 @@
 
 ### Database Output
 ![images/db_output.png](images/db_output.png)
+
+
+
+
+## V2 
+
+- Added Asynch functionallity for large datasets, this will help reduce time to scrape from days to a few minutes.
+- The files are stored in V2 folder, they work the same way as V1
